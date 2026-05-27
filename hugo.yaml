@@ -1,5 +1,5 @@
 # Configuración básica
-baseURL: "http://localhost/"
+baseURL: "https://komorebi-travels.netlify.app/"
 languageCode: "es-es"
 defaultContentLanguage: "es"
 title: "Komorebi Travels"
@@ -41,17 +41,17 @@ menu:
   main:
     - identifier: destinos
       name: Destinos
-      url: /destinos
+      url: /destinos/
       weight: 1
 
     - identifier: inspiracion
       name: Inspiración
-      url: /inspiracion
+      url: /inspiracion/
       weight: 2
 
     - identifier: search
       name: Buscar
-      url: /search
+      url: /search/
       weight: 3
 
 markup:
