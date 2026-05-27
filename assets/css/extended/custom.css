@@ -180,16 +180,22 @@ h4 {
 
 .img-left {
     width: 130px;
-    height: 130px !important;
-    object-fit: cover !important;
-    border-radius: 50% !important;
+    height: 130px;
+
+    object-fit: cover;
+    border-radius: 50%;
+
     box-shadow: 0 6px 20px rgba(0, 0, 0, 0.2);
+
+    display: block;
+    flex-shrink: 0;
 }
 
 .intro-section {
     display: flex;
     flex-direction: column;
     align-items: flex-start;
+    gap: 22px;
     animation: fadeUp 1.4s ease forwards;
 }
 
@@ -280,10 +286,6 @@ h4:hover .anchor {
     .hero-section {
         padding: 16vh 30px 60px;
     }
-
-    .speech-bubble {
-        max-width: 100%;
-    }
 }
 
 
@@ -336,20 +338,6 @@ h4:hover .anchor {
         gap: 24px;
     }
 
-    .img-left {
-        width: 100px;
-        height: 100px !important;
-    }
-
-    .speech-bubble {
-        padding: 22px;
-        border-radius: 20px;
-    }
-
-    .speech-bubble::before {
-        left: 40px;
-    }
-
     .komorebi-main-footer {
         margin-top: 140px;
         padding-top: 45px;
@@ -382,10 +370,6 @@ h4:hover .anchor {
 
     .hero-subtitle {
         font-size: 1rem;
-    }
-
-    .speech-bubble {
-        padding: 18px;
     }
 
     .komorebi-footer,
