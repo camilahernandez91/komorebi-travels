@@ -279,3 +279,16 @@ h4:hover .anchor {
     height: auto;
     display: block;
 }
+
+@media (max-width: 768px) {
+
+    .post-content h1 {
+        font-size: 2.4rem;
+        line-height: 1.2;
+    }
+
+    .hero-subtitle {
+        font-size: 1.1rem;
+    }
+
+}
