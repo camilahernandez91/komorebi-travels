@@ -286,10 +286,8 @@ h4:hover .anchor {
         font-size: 2.4rem;
         line-height: 1.2;
 
-        margin-left: 0;
-        padding-left: 0;
-
-        margin-bottom: 18px;
+        margin: 0 0 18px 0;
+        padding: 0;
 
         text-align: left;
     }
