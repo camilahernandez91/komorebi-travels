@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://localhost:1313/inspiracion/viajar-lento/</loc>
+  </url><url>
+    <loc>http://localhost:1313/search/</loc>
+  </url><url>
+    <loc>http://localhost:1313/categories/</loc>
+  </url><url>
+    <loc>http://localhost:1313/destinos/</loc>
+  </url><url>
+    <loc>http://localhost:1313/guias/guia-iguazu/</loc>
+  </url><url>
+    <loc>http://localhost:1313/guias/</loc>
+  </url><url>
+    <loc>http://localhost:1313/categories/inspiraci%C3%B3n/</loc>
+  </url><url>
+    <loc>http://localhost:1313/inspiracion/</loc>
+  </url><url>
+    <loc>http://localhost:1313/guias/japon/</loc>
+  </url><url>
+    <loc>http://localhost:1313/guias/guia-kanazawa/</loc>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/slow-travel/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+  </url><url>
+    <loc>http://localhost:1313/guias/guia-tokio/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/viajar-lento/</loc>
+  </url>
+</urlset>

@@ -1,0 +1,66 @@
+# Configuración básica
+baseURL: "http://localhost/"
+languageCode: "es-es"
+defaultContentLanguage: "es"
+title: "Komorebi Travels"
+theme: ["PaperMod"]
+enableRobotsTXT: true
+
+# Parámetros del sitio
+params:
+  env: production
+  title: "Komorebi Travels"
+  description: "Guías de viaje prácticas y organizadas por destino para ayudarte a planificar tu próxima aventura de forma simple y clara."
+  keywords:
+    ["guías de viaje", "planificar viaje", "organizar viaje", "destinos"]
+  author: ""
+  disableSpecial1stPost: true
+  mainSections: []
+  disableScrollToTop: false
+  disableThemeToggle: true
+  ShowToc: true
+  socialIcons:
+    - name: instagram
+      url: "https://instagram.com/komorebitravels"
+  searchPlaceholder: "¿Dónde quieres ir?"
+
+# Footer
+footer:
+  newsletterForm: true
+  newsletterAction: "https://app.mailerlite.com/webforms/submit/XXXX" # Reemplaza con tu URL real
+  newsletterMethod: "POST"
+  newsletterEmailFieldName: "email"
+  copyright: "© 2026 Komorebi Travels"
+
+# Redes sociales
+social:
+  instagram: "https://www.instagram.com/tu_usuario"
+
+# Menú principal
+menu:
+  main:
+    - identifier: destinos
+      name: Destinos
+      url: /destinos
+      weight: 1
+
+    - identifier: inspiracion
+      name: Inspiración
+      url: /inspiracion
+      weight: 2
+
+    - identifier: search
+      name: Buscar
+      url: /search
+      weight: 3
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON

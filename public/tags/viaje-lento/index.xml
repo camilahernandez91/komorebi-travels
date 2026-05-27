@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Viaje Lento on Komorebi Travels</title>
+    <link>http://localhost:1313/tags/viaje-lento/</link>
+    <description>Recent content in Viaje Lento on Komorebi Travels</description>
+    <generator>Hugo -- 0.155.3</generator>
+    <language>es-es</language>
+    <lastBuildDate>Thu, 26 Feb 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/viaje-lento/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cómo diseñar un viaje lento</title>
+      <link>http://localhost:1313/inspiracion/viajar-lento/</link>
+      <pubDate>Thu, 26 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/inspiracion/viajar-lento/</guid>
+      <description>Guía práctica para planificar un viaje lento y disfrutar cada destino con intención.</description>
+    </item>
+  </channel>
+</rss>

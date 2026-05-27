@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Komorebi Travels</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Komorebi Travels</description>
+    <generator>Hugo -- 0.155.3</generator>
+    <language>es-es</language>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>⛩️ Japón</title>
+      <link>http://localhost:1313/posts/japon/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/japon/</guid>
+      <description>&lt;p&gt;Japón es un destino que combina tradición, modernidad y una organización que facilita el viaje incluso para quienes visitan el país por primera vez.&lt;/p&gt;
+&lt;p&gt;Aquí encontrarás la información esencial para comenzar a planificar con claridad y sin saturarte.&lt;/p&gt;
+&lt;h2 id=&#34;planifica-tu-viaje&#34;&gt;PLANIFICA TU VIAJE&lt;/h2&gt;
+&lt;h3 id=&#34;presupuesto-diario-usd&#34;&gt;Presupuesto diario (USD)&lt;/h3&gt;
+&lt;p&gt;Estos valores son orientativos y están pensados para darte una referencia clara antes de comenzar a diseñar tu viaje.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Alojamiento&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Hostal: $25–50&lt;/li&gt;
+&lt;li&gt;Business hotel: $90–160&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Gastos diarios&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>KANAZAWA</title>
+      <link>http://localhost:1313/posts/guia-kanazawa/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/guia-kanazawa/</guid>
+      <description>&lt;h2 id=&#34;por-qué-incluir-kanazawa-en-tu-viaje&#34;&gt;¿Por qué incluir Kanazawa en tu viaje?&lt;/h2&gt;
+&lt;p&gt;Kanazawa es ideal para quienes quieren experimentar la estética tradicional japonesa sin el ritmo acelerado de Kioto. Es compacta, elegante y se presta para caminar sin prisa.&lt;/p&gt;
+&lt;p&gt;Kanazawa es una alternativa tranquila a Kioto, ideal para quienes buscan tradición, jardines y un ritmo más pausado. Es compacta, caminable y perfecta para dedicarle dos días sin prisas.&lt;/p&gt;
+&lt;p&gt;Kanazawa no necesita un itinerario apretado.
+Dos barrios por día son suficientes.
+Deja tiempo para caminar sin rumbo por el barrio samurái o sentarte en Kenrokuen a observar cómo cambia la luz.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>TOKIO</title>
+      <link>http://localhost:1313/posts/guia-tokio/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/guia-tokio/</guid>
+      <description>&lt;p&gt;El punto de partida de muchos. Una ciudad de contrastes con algo para todos.&lt;/p&gt;
+&lt;h3 id=&#34;dónde-alojarse&#34;&gt;Dónde alojarse&lt;/h3&gt;
+&lt;p&gt;Elige alojamiento cerca de una estación de tren o metro. Si está próximo a la línea Yamanote, mejor aún: te permitirá moverte con facilidad por los principales barrios de la ciudad.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Barrios más tranquilos&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Asakusa:&lt;/strong&gt; ambiente tradicional y ritmo más pausado, especialmente al final del día.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Ueno:&lt;/strong&gt; práctico y auténtico, con un aire más cotidiano y local.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Viajar lento</title>
+      <link>http://localhost:1313/posts/viajar-lento/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/viajar-lento/</guid>
+      <description>&lt;h2 id=&#34;cómo-diseñar-un-viaje-lento-y-disfrutar-realmente-cada-destino&#34;&gt;Cómo diseñar un viaje lento (y disfrutar realmente cada destino)&lt;/h2&gt;
+&lt;h3 id=&#34;qué-es-un-viaje-lento&#34;&gt;¿Qué es un viaje lento?&lt;/h3&gt;
+&lt;p&gt;Un viaje lento no significa viajar más despacio por obligación.&lt;br&gt;
+Significa viajar con intención.&lt;/p&gt;
+&lt;p&gt;Es elegir calidad sobre cantidad.&lt;br&gt;
+Es dejar espacio para la espontaneidad.&lt;br&gt;
+Es permitir que el destino se revele poco a poco.&lt;/p&gt;
+&lt;p&gt;El concepto nace del movimiento &lt;em&gt;slow living&lt;/em&gt;, una filosofía que invita a vivir con más conciencia y presencia, y que luego dio paso al &lt;em&gt;slow travel&lt;/em&gt;.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

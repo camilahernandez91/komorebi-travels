@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Inspiración on Komorebi Travels</title>
+    <link>http://localhost:1313/inspiracion/</link>
+    <description>Recent content in Inspiración on Komorebi Travels</description>
+    <generator>Hugo -- 0.155.3</generator>
+    <language>es-es</language>
+    <atom:link href="http://localhost:1313/inspiracion/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://localhost:1313/inspiracion/viajar-lento/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/inspiracion/viajar-lento/</guid>
+      <description>&lt;h2 id=&#34;qué-significa-el-slow-travel-o-viajar-lento&#34;&gt;¿Qué significa el &lt;em&gt;slow travel&lt;/em&gt; o viajar lento?&lt;/h2&gt;
+&lt;p&gt;Quizás nunca te lo habías planteado, o quizás te has topado con el término en internet, pero no tienes tan claro qué significa.&lt;/p&gt;
+&lt;p&gt;El &lt;em&gt;slow travel&lt;/em&gt; —o viajar lento— es una forma de viajar que prioriza la experiencia o la calidad por sobre la cantidad. En lugar de recorrer muchos destinos en poco tiempo, se trata de moverse menos y conectar más profundamente con cada lugar.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
