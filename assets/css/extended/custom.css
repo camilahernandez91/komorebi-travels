@@ -1,3 +1,7 @@
+* {
+    box-sizing: border-box;
+}
+
 body {
     font-family: 'Noto Serif JP', serif;
     font-size: 16px;
@@ -259,4 +263,140 @@ h2:hover .anchor,
 h3:hover .anchor,
 h4:hover .anchor {
     display: none;
+}
+
+/* =========================
+   RESPONSIVE
+========================= */
+
+/* TABLETS */
+
+@media (max-width: 1024px) {
+
+    .post-content h1 {
+        font-size: 3rem;
+    }
+
+    .hero-section {
+        padding: 16vh 30px 60px;
+    }
+
+    .speech-bubble {
+        max-width: 100%;
+    }
+}
+
+
+/* MOBILE */
+
+@media (max-width: 768px) {
+
+    body {
+        font-size: 15px;
+        line-height: 1.75;
+    }
+
+    .post-content h1,
+    .post-header h1 {
+        font-size: 2.3rem;
+        line-height: 1.2;
+    }
+
+    .post-content h2 {
+        font-size: 1.8rem;
+        margin-top: 55px;
+    }
+
+    .post-content h3 {
+        font-size: 1.4rem;
+        margin-top: 40px;
+    }
+
+    .hero-section {
+        min-height: 85vh;
+
+        padding:
+            14vh 22px 50px;
+
+        justify-content: center;
+    }
+
+    .hero-subtitle {
+        font-size: 1.05rem;
+        line-height: 1.6;
+    }
+
+    .btn-komorebi {
+        margin-top: 28px;
+        padding: 11px 20px;
+        font-size: 0.95rem;
+    }
+
+    .intro-section {
+        gap: 24px;
+    }
+
+    .img-left {
+        width: 100px;
+        height: 100px !important;
+    }
+
+    .speech-bubble {
+        padding: 22px;
+        border-radius: 20px;
+    }
+
+    .speech-bubble::before {
+        left: 40px;
+    }
+
+    .komorebi-main-footer {
+        margin-top: 140px;
+        padding-top: 45px;
+    }
+
+    .post-content img {
+        width: 100%;
+        height: auto;
+    }
+
+    .guia-link {
+        align-items: flex-start;
+    }
+}
+
+
+/* SMALL PHONES */
+
+@media (max-width: 480px) {
+
+    .post-content h1,
+    .post-header h1 {
+        font-size: 2rem;
+    }
+
+    .hero-section {
+        padding:
+            12vh 18px 40px;
+    }
+
+    .hero-subtitle {
+        font-size: 1rem;
+    }
+
+    .speech-bubble {
+        padding: 18px;
+    }
+
+    .komorebi-footer,
+    .komorebi-main-footer {
+        font-size: 0.82rem;
+    }
+}
+
+.responsive-img {
+    width: 100%;
+    max-width: 600px;
+    height: auto;
+    display: block;
 }

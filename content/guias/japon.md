@@ -44,7 +44,7 @@ Algunos precios orientativos por trayecto:
 - **Kioto – Kanazawa (tren exprés):** $45–75
 - **Bus nocturno Tokio – Kioto/Osaka:** $35–70
 
-<img src="/images/transporte-precios.png" width="550">
+<img src="/images/transporte-precios.png" class="responsive-img">
 
 <div style="font-size: 0.85rem; color: #666;">
 

@@ -5,7 +5,7 @@ draft: false
 
 ¡Visita una de las 7 maravillas naturales del mundo! 🩷
 
-<img src="/images/foziguazu.png" width="600">
+<img src="/images/foziguazu.png" class="responsive-img">
 
 ### Cuándo viajar
 
@@ -52,7 +52,7 @@ Puedes buscar alojamiento cerca de estas avenidas y preguntar por el paradero m�
 
 Luego, los buses toman la **Av. das Cataratas**, donde también puedes encontrar algunos hoteles.
 
-<img src="/images/ttu.png" width="500">
+<img src="/images/ttu.png" class="responsive-img">
 
 ### Dinero
 

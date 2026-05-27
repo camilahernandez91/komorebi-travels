@@ -7,7 +7,7 @@ El punto de partida de la mayoría que viaja a Japón.
 
 ¡Comienza a planificar tu estadía en Tokio!
 
-<img src="/images/tokiio.png" width="600">
+<img src="/images/tokiio.png" class="responsive-img">
 
 ### Dónde alojarse
 
