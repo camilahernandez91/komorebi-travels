@@ -17,6 +17,7 @@ params:
   disableSpecial1stPost: true
   mainSections: []
   disableScrollToTop: false
+  defaultTheme: light
   disableThemeToggle: true
   ShowToc: true
   socialIcons:
