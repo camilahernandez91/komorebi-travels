@@ -292,6 +292,11 @@ h4:hover .anchor {
         text-align: left;
     }
 
+    .hero-section {
+        padding: 110px 20px 60px;
+    }
+
+
     .hero-subtitle {
         font-size: 1.1rem;
     }
