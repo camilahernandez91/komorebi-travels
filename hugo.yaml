@@ -10,6 +10,8 @@ enableRobotsTXT: true
 params:
   env: production
   title: "Komorebi Travels"
+  verification:
+    google: "N2sU6ZGpicZSRGsVVD3pxeMQwWYBDvkEs3lXqNEzM9Q"
   description: "Guías de viaje prácticas y organizadas por destino para ayudarte a planificar tu próxima aventura de forma simple y clara."
   keywords:
     ["guías de viaje", "planificar viaje", "organizar viaje", "destinos"]
