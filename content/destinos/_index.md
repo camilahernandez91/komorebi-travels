@@ -3,6 +3,8 @@ title: "Destinos"
 description: ""
 ---
 
+Guías prácticas que van al grano para que puedas comenzar a armar tu próxima aventura.
+
 ### [Japón]({{< relref "japon.md" >}})
 
 - [Tokio]({{< relref "guia-tokio.md" >}})

@@ -13,7 +13,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/guias/guia-iguazu/</guid>
       <description>&lt;p&gt;¡Visita una de las 7 maravillas naturales del mundo! 🩷&lt;/p&gt;
-&lt;img src=&#34;http://localhost:1313/images/foziguazu.png&#34; width=&#34;600&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/foziguazu.png&#34; class=&#34;responsive-img&#34;&gt;
 &lt;h3 id=&#34;cuándo-viajar&#34;&gt;Cuándo viajar&lt;/h3&gt;
 &lt;p&gt;Foz de Iguazú tiene un clima subtropical húmedo, con lluvias durante todo el año que varían en cantidad según la época.&lt;/p&gt;
 &lt;ul&gt;
@@ -84,7 +84,7 @@ Deja tiempo para caminar sin rumbo por el barrio samurái o sentarte en Kenrokue
       <guid>http://localhost:1313/guias/guia-tokio/</guid>
       <description>&lt;p&gt;El punto de partida de la mayoría que viaja a Japón.&lt;/p&gt;
 &lt;p&gt;¡Comienza a planificar tu estadía en Tokio!&lt;/p&gt;
-&lt;img src=&#34;http://localhost:1313/images/tokiio.png&#34; width=&#34;600&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/tokiio.png&#34; class=&#34;responsive-img&#34;&gt;
 &lt;h3 id=&#34;dónde-alojarse&#34;&gt;Dónde alojarse&lt;/h3&gt;
 &lt;p&gt;Elije alojamiento cerca de una estación de tren/metro. Puedes usar la línea Yamanote como referencia: esta te permitirá moverte con facilidad por los principales barrios de la ciudad.&lt;/p&gt;
 &lt;blockquote&gt;

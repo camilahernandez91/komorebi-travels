@@ -26,6 +26,8 @@ params:
     - name: instagram
       url: "https://instagram.com/komorebitravels"
   searchPlaceholder: "¿Dónde quieres ir?"
+  hideSummary: true
+  ShowDate: false
 
 # Footer
 footer:
