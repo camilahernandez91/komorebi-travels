@@ -2,37 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/inspiracion/viajar-barato/</loc>
+    <lastmod>2026-06-03T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2026-06-05T00:00:00+00:00</lastmod>
+    <lastmod>2026-06-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/inspiraci%C3%B3n/</loc>
-    <lastmod>2026-06-05T00:00:00+00:00</lastmod>
+    <lastmod>2026-06-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/inspiracion/</loc>
-    <lastmod>2026-06-05T00:00:00+00:00</lastmod>
+    <lastmod>2026-06-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-06-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/inspiracion/slow-travel/</loc>
-    <lastmod>2026-06-05T00:00:00+00:00</lastmod>
+    <lastmod>2026-06-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/slow-travel/</loc>
-    <lastmod>2026-06-05T00:00:00+00:00</lastmod>
+    <lastmod>2026-06-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2026-06-05T00:00:00+00:00</lastmod>
+    <lastmod>2026-06-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/viaja-barato/</loc>
-    <lastmod>2026-06-05T00:00:00+00:00</lastmod>
+    <lastmod>2026-06-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/viajar-lento/</loc>
-    <lastmod>2026-06-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/inspiracion/holis/</loc>
-    <lastmod>2026-06-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/inspiracion/viajar-barato/</loc>
     <lastmod>2026-06-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/search/</loc>
