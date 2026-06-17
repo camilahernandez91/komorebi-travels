@@ -306,3 +306,7 @@ h4:hover .anchor {
     }
 
 }
+
+.post-entry .entry-header {
+    visibility: hidden;
+}

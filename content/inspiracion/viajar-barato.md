@@ -1,12 +1,12 @@
 ---
-title: ""
+title: "Cómo viajar más barato"
 date: 2026-06-03
 draft: false
-description: ""
+description: "Consejos para ahorrar y viajar mejor"
 tags: ["viaja barato", "viajar lento", "slow travel"]
 categories: ["Inspiración"]
 cover:
-  image: "/images/como-viajar-mas-barato.png"
+  image: "/images/como-viajar-mas-barato-2.png"
   alt: ""
   caption: ""
 ---
