@@ -48,7 +48,7 @@ Algunos precios orientativos por trayecto:
 
 <div style="font-size: 0.85rem; color: #666;">
 
-Puedes revisar precios en la página de Klook o en el mismo Google Maps.
+Puedes revisar precios en la página de <a href="https://klook.tpo.li/NSJAB0Cx" target="_blank">Klook</a> o en el mismo Google Maps.
 
 </div>
 

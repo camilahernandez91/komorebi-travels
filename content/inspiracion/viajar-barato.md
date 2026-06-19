@@ -3,7 +3,7 @@ title: "Cómo viajar más barato"
 date: 2026-06-03
 draft: false
 description: "Consejos para ahorrar y viajar mejor"
-tags: ["viaja barato", "viajar lento", "slow travel"]
+tags: ["viajar barato", "viajar lento", "slow travel"]
 categories: ["Inspiración"]
 cover:
   image: "/images/como-viajar-mas-barato-2.png"
@@ -65,7 +65,7 @@ Con Worldpackers puedes hacer voluntariados en distintos destinos a cambio de al
 
 Yo la usé una vez en Japón y la experiencia me encantó. Es algo que sí o sí me gustaría volver a hacer.
 
-En mi caso, trabajaba solo 2 o 3 horas al día en un hostal y después tenía toda la tarde libre para explorar y hacer mis cosas. A cambio, pude vivir en una casa cercana al hostal que compartí con otra de las voluntarias.
+En mi caso, trabajaba solo 3 horas al día en un hostal y después tenía toda la tarde libre para explorar y hacer mis cosas. A cambio, pude vivir en una casa cercana al hostal que compartí con otra de las voluntarias.
 
 <img src="/images/shuzenji.png" style="width:55%;">
 
@@ -87,7 +87,7 @@ Gracias a esta plataforma pude vivir un mes en Corea del Sur cuidando a Bolillo,
 
 <img src="/images/bolillo.png" style="width:55%;">
 
-Es una experiencia con más responsabilidad, pero también una forma muy especial de viajar. Es ideal para nómadas digitales o para quienes buscan una escapada diferente.
+Es una experiencia con más responsabilidad, pero también una forma muy especial de viajar. Es ideal para nómadas digitales (o viajes más largos) o para quienes buscan una escapada diferente.
 
 ## Otras recomendaciones
 

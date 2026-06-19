@@ -5,7 +5,7 @@ description: ""
 
 Guías prácticas que van al grano para que puedas comenzar a armar tu próxima aventura.
 
-### [Japón]({{< relref "japon.md" >}})
+### [Japón]({{< relref "guia-japon.md" >}})
 
 - [Tokio]({{< relref "guia-tokio.md" >}})
 - Kanazawa <span class="proximamente">próximamente</span>
