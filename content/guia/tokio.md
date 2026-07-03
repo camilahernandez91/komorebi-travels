@@ -85,7 +85,7 @@ Puedes organizar tus días por barrios y recorrer hasta dos por día para disfru
   <span>Revisa las otras guías</span>
 </div>
 
-- [Japón]({{< relref "guia-japon.md" >}})
+- [Japón]({{< relref "japon.md" >}})
 
 ---
 

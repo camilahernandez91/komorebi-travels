@@ -225,7 +225,7 @@ Estas cadenas forman parte de la vida cotidiana japonesa. Son prácticas y permi
   <span>Revisa las otras guías</span>
 </div>
 
-- [Tokio]({{< relref "guia-tokio.md" >}})
+- [Tokio]({{< relref "tokio.md" >}})
 
 ---
 
