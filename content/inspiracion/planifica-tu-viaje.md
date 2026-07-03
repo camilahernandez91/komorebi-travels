@@ -1,7 +1,7 @@
 ---
 title: "Así organizo mis viajes"
 date: 2026-06-03
-draft: false
+draft: true
 description: "Consejos para ahorrar y viajar mejor"
 tags: ["viajar barato", "viajar lento", "slow travel"]
 categories: ["Inspiración"]

@@ -10,9 +10,9 @@
     <atom:link href="http://localhost:1313/tags/viajar-lento/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cómo viajar más barato</title>
-      <link>http://localhost:1313/inspiracion/viajar-barato/</link>
+      <link>http://localhost:1313/inspiracion/como-viajar-barato/</link>
       <pubDate>Wed, 03 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/inspiracion/viajar-barato/</guid>
+      <guid>http://localhost:1313/inspiracion/como-viajar-barato/</guid>
       <description>Consejos para ahorrar y viajar mejor</description>
     </item>
   </channel>
