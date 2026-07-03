@@ -6,7 +6,7 @@ description: "Consejos para ahorrar y viajar mejor"
 tags: ["viajar barato", "viajar lento", "slow travel"]
 categories: ["Inspiración"]
 cover:
-  image: "/images/como-viajar-mas-barato-2.png"
+  image: "/images/como-viajar-mas-barato.png"
   alt: ""
   caption: ""
 ---

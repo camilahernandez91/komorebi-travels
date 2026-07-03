@@ -1,9 +1,10 @@
 ---
-title: "Japón"
+title: "Guía de viaje a Japón: presupuesto y consejos prácticos"
+description: "Planifica tu viaje a Japón: presupuesto diario, mejor época para viajar, transporte y consejos prácticos desde mi experiencia."
 draft: false
 ---
 
-## PLANIFICA TU VIAJE A JAPÓN
+## PLANIFICA TU VIAJE
 
 ### Presupuesto diario (USD)
 

@@ -1,5 +1,6 @@
 ---
-title: "TOKIO"
+title: "Guía de Tokio: dónde alojarse y qué ver fuera de la ruta clásica"
+description: "Guía práctica de Tokio: mejores barrios para alojarte, qué ver según tu estilo de viaje y zonas alternativas lejos de las rutas turísticas masivas."
 draft: false
 ---
 
@@ -7,7 +8,7 @@ El punto de partida de la mayoría que viaja a Japón.
 
 ¡Comienza a planificar tu estadía en Tokio!
 
-<img src="/images/tokiio.png" class="responsive-img">
+<img src="/images/tokio.png" class="responsive-img">
 
 ### Dónde alojarse
 

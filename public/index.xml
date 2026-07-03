@@ -9,69 +9,39 @@
     <lastBuildDate>Wed, 03 Jun 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Cómo viajar más barato</title>
-      <link>http://localhost:1313/inspiracion/viajar-barato/</link>
+      <title>Así organizo mis viajes</title>
+      <link>http://localhost:1313/inspiracion/planifica-tu-viaje/</link>
       <pubDate>Wed, 03 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/inspiracion/viajar-barato/</guid>
+      <guid>http://localhost:1313/inspiracion/planifica-tu-viaje/</guid>
       <description>Consejos para ahorrar y viajar mejor</description>
     </item>
     <item>
-      <title>FOZ DE IGUAZÚ</title>
+      <title>Cómo viajar más barato</title>
+      <link>http://localhost:1313/inspiracion/como-viajar-barato/</link>
+      <pubDate>Wed, 03 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/inspiracion/como-viajar-barato/</guid>
+      <description>Consejos para ahorrar y viajar mejor</description>
+    </item>
+    <item>
+      <title>Guía de Foz de Iguazú: cómo visitar las cataratas del lado brasilero y argentino</title>
       <link>http://localhost:1313/guias/guia-iguazu/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/guias/guia-iguazu/</guid>
-      <description>&lt;p&gt;¡Visita una de las 7 maravillas naturales del mundo! 🩷&lt;/p&gt;
-&lt;img src=&#34;http://localhost:1313/images/foziguazu.png&#34; class=&#34;responsive-img&#34;&gt;
-&lt;h3 id=&#34;cuándo-viajar&#34;&gt;Cuándo viajar&lt;/h3&gt;
-&lt;p&gt;Foz de Iguazú tiene un clima subtropical húmedo, con lluvias durante todo el año que varían en cantidad según la época.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Verano:&lt;/strong&gt; diciembre — enero — febrero&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Mucho calor y humedad&lt;/li&gt;
-&lt;li&gt;Lluvias frecuentes y tormentas&lt;/li&gt;
-&lt;li&gt;Las cataratas llevan más agua y se ven más imponentes (aún)&lt;/li&gt;
-&lt;li&gt;Vacaciones de verano: temporada alta&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Otoño:&lt;/strong&gt; marzo — abril — mayo&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Clima más agradable&lt;/li&gt;
-&lt;li&gt;Menos humedad&lt;/li&gt;
-&lt;li&gt;Buena época para recorrer con tranquilidad&lt;/li&gt;
-&lt;li&gt;mañanas más frescas, especialmente entrando a mayo&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Invierno:&lt;/strong&gt; junio — julio — agosto&lt;/p&gt;</description>
+      <description>Guía completa de Foz de Iguazú: cómo cruzar a las cataratas de Argentina y Brasil, dónde alojarte, transporte y precios actualizados para tu visita.</description>
     </item>
     <item>
-      <title>Japón</title>
+      <title>Guía de Tokio: dónde alojarse y qué ver fuera de la ruta clásica</title>
+      <link>http://localhost:1313/guias/guia-tokio/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/guias/guia-tokio/</guid>
+      <description>Guía práctica de Tokio: mejores barrios para alojarte, qué ver según tu estilo de viaje y zonas alternativas lejos de las rutas turísticas masivas.</description>
+    </item>
+    <item>
+      <title>Guía de viaje a Japón: presupuesto y consejos prácticos</title>
       <link>http://localhost:1313/guias/guia-japon/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/guias/guia-japon/</guid>
-      <description>&lt;h2 id=&#34;planifica-tu-viaje-a-japón&#34;&gt;PLANIFICA TU VIAJE A JAPÓN&lt;/h2&gt;
-&lt;h3 id=&#34;presupuesto-diario-usd&#34;&gt;Presupuesto diario (USD)&lt;/h3&gt;
-&lt;p&gt;Esta es solo una referencia para que calcules cuánto podrías gastar en un viaje a Japón y así comenzar a organizarte. Yo incluso encontré hostales por menos de 15 dólares la noche en Tokio. Pero todo dependerá de tus preferencias y de si viajas solo o acompañado.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;Alojamiento&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Hostal: $25–50&lt;/li&gt;
-&lt;li&gt;Business hotel: $90–160&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Gastos diarios&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Comida: $25–40&lt;/li&gt;
-&lt;li&gt;Transporte: $6–12&lt;/li&gt;
-&lt;li&gt;Entradas y actividades: $0–30&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Total orientativo&lt;/p&gt;</description>
+      <description>Planifica tu viaje a Japón: presupuesto diario, mejor época para viajar, transporte y consejos prácticos desde mi experiencia.</description>
     </item>
     <item>
       <title>KANAZAWA</title>
@@ -86,21 +56,11 @@ Dos barrios por día son suficientes.
 Deja tiempo para caminar sin rumbo por el barrio samurái o sentarte en Kenrokuen a observar cómo cambia la luz.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>TOKIO</title>
-      <link>http://localhost:1313/guias/guia-tokio/</link>
+      <title>Seguro de viaje, eSIM y recomendaciones: lo que yo uso</title>
+      <link>http://localhost:1313/recursos/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/guias/guia-tokio/</guid>
-      <description>&lt;p&gt;El punto de partida de la mayoría que viaja a Japón.&lt;/p&gt;
-&lt;p&gt;¡Comienza a planificar tu estadía en Tokio!&lt;/p&gt;
-&lt;img src=&#34;http://localhost:1313/images/tokiio.png&#34; class=&#34;responsive-img&#34;&gt;
-&lt;h3 id=&#34;dónde-alojarse&#34;&gt;Dónde alojarse&lt;/h3&gt;
-&lt;p&gt;Elije alojamiento cerca de una estación de tren/metro. Puedes usar la línea Yamanote como referencia: esta te permitirá moverte con facilidad por los principales barrios de la ciudad.&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;Barrios más tranquilos&lt;/strong&gt; (muy recomendados)&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Asakusa:&lt;/strong&gt; Barrio tradicional con un ritmo más pausado, especialmente al final del día.&lt;br&gt;
-Aquí se encuentra el templo budista &lt;a href=&#34;https://maps.app.goo.gl/6NWSbqnChdzgBEnUA&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Senso-ji&lt;/a&gt;, y muy cerca también la &lt;a href=&#34;https://maps.app.goo.gl/c4LcQL5sitejhVY68&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Tokyo Skytree&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/recursos/</guid>
+      <description>Mis recomendaciones reales para viajar: seguro de viaje, eSIM y herramientas que uso en cada viaje, pensadas también para viajeros latinoamericanos.</description>
     </item>
   </channel>
 </rss>

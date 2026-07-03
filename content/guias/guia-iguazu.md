@@ -1,11 +1,12 @@
 ---
-title: "FOZ DE IGUAZÚ"
+title: "Guía de Foz de Iguazú: cómo visitar las cataratas del lado brasilero y argentino"
+description: "Guía completa de Foz de Iguazú: cómo cruzar a las cataratas de Argentina y Brasil, dónde alojarte, transporte y precios actualizados para tu visita."
 draft: false
 ---
 
-¡Visita una de las 7 maravillas naturales del mundo! 🩷
+¡Visita una de las 7 maravillas naturales del mundo!
 
-<img src="/images/foziguazu.png" class="responsive-img">
+<img src="/images/iguazu.png" class="responsive-img">
 
 ### Cuándo viajar
 

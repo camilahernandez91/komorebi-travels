@@ -1,9 +1,7 @@
 ---
 title: "Destinos"
-description: ""
+description: "Guías de viaje prácticas y organizadas por destino: Japón, Brasil y próximamente más países. Todo lo que necesitas para planificar tu viaje."
 ---
-
-Guías prácticas que van al grano para que puedas comenzar a armar tu próxima aventura.
 
 ### [Japón]({{< relref "guia-japon.md" >}})
 
