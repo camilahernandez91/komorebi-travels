@@ -33,15 +33,15 @@
   </url><url>
     <loc>http://localhost:1313/destinos/</loc>
   </url><url>
-    <loc>http://localhost:1313/guias/guia-iguazu/</loc>
+    <loc>http://localhost:1313/guia/</loc>
   </url><url>
-    <loc>http://localhost:1313/guias/guia-tokio/</loc>
+    <loc>http://localhost:1313/guia/iguazu/</loc>
   </url><url>
-    <loc>http://localhost:1313/guias/guia-japon/</loc>
+    <loc>http://localhost:1313/guia/kanazawa/</loc>
   </url><url>
-    <loc>http://localhost:1313/guias/</loc>
+    <loc>http://localhost:1313/guia/tokio/</loc>
   </url><url>
-    <loc>http://localhost:1313/guias/guia-kanazawa/</loc>
+    <loc>http://localhost:1313/guia/japon/</loc>
   </url><url>
     <loc>http://localhost:1313/recursos/</loc>
   </url>

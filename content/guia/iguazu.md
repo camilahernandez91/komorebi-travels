@@ -1,6 +1,6 @@
 ---
 title: "Guía de Foz de Iguazú: cómo visitar las cataratas del lado brasilero y argentino"
-description: "Guía completa de Foz de Iguazú: cómo cruzar a las cataratas de Argentina y Brasil, dónde alojarte, transporte y precios actualizados para tu visita."
+description: "Guía completa de Foz de Iguazú: cómo ir a las cataratas del lado de Brasil y Argentina, dónde alojarte, transporte y precios actualizados para tu visita."
 draft: false
 ---
 

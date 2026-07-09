@@ -1,20 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Komorebi Travels</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on Komorebi Travels</description>
+    <title>Guia on Komorebi Travels</title>
+    <link>http://localhost:1313/guia/</link>
+    <description>Recent content in Guia on Komorebi Travels</description>
     <generator>Hugo -- 0.155.3</generator>
     <language>es-es</language>
-    <lastBuildDate>Wed, 03 Jun 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Cómo viajar más barato</title>
-      <link>http://localhost:1313/inspiracion/como-viajar-barato/</link>
-      <pubDate>Wed, 03 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/inspiracion/como-viajar-barato/</guid>
-      <description>Consejos para ahorrar y viajar mejor</description>
-    </item>
+    <atom:link href="http://localhost:1313/guia/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Guía de Foz de Iguazú: cómo visitar las cataratas del lado brasilero y argentino</title>
       <link>http://localhost:1313/guia/iguazu/</link>
@@ -23,11 +15,11 @@
       <description>Guía completa de Foz de Iguazú: cómo ir a las cataratas del lado de Brasil y Argentina, dónde alojarte, transporte y precios actualizados para tu visita.</description>
     </item>
     <item>
-      <title>Guía de Kanazawa: Japón tradicional sin las multitudes</title>
+      <title>Guía de Foz de Iguazú: cómo visitar las cataratas del lado brasilero y argentino</title>
       <link>http://localhost:1313/guia/kanazawa/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/guia/kanazawa/</guid>
-      <description>Guía completa de Kanazawa: qué ver, dónde alojarte, cómo llegar desde Tokio, Kioto o Takayama y más.</description>
+      <description>Guía completa de Foz de Iguazú: cómo ir a las cataratas del lado de Brasil y Argentina, dónde alojarte, transporte y precios actualizados para tu visita.</description>
     </item>
     <item>
       <title>Guía de Tokio: dónde alojarse y qué ver fuera de la ruta clásica</title>
@@ -42,13 +34,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/guia/japon/</guid>
       <description>Planifica tu viaje a Japón: presupuesto diario, mejor época para viajar, transporte y consejos prácticos desde mi experiencia.</description>
-    </item>
-    <item>
-      <title>Seguro de viaje, eSIM y recomendaciones: lo que yo uso</title>
-      <link>http://localhost:1313/recursos/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/recursos/</guid>
-      <description>Mis recomendaciones reales para viajar: seguro de viaje, eSIM y herramientas que uso en cada viaje, pensadas también para viajeros latinoamericanos.</description>
     </item>
   </channel>
 </rss>

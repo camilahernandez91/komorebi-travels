@@ -6,7 +6,7 @@ description: "Guías de viaje prácticas y organizadas por destino: Japón, Bras
 ### [Japón]({{< relref "japon.md" >}})
 
 - [Tokio]({{< relref "tokio.md" >}})
-- Kanazawa <span class="proximamente">próximamente</span>
+- [Kanazawa]({{< relref "kanazawa.md" >}})
 
 ### Brasil
 
