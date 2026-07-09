@@ -1,6 +1,6 @@
 ---
 title: "Guía de Tokio: dónde alojarse y qué ver fuera de la ruta clásica"
-description: "Guía práctica de Tokio: mejores barrios para alojarte, qué ver según tu estilo de viaje y zonas alternativas lejos de las rutas turísticas masivas."
+description: "Guía práctica de Tokio: mejores barrios para alojarte, qué ver según tu estilo de viaje, zonas alternativas lejos de las rutas turísticas masivas y consejos prácticos."
 draft: false
 ---
 
@@ -86,6 +86,7 @@ Puedes organizar tus días por barrios y recorrer hasta dos por día para disfru
 </div>
 
 - [Japón]({{< relref "japon.md" >}})
+- [Kanazawa]({{< relref "kanazawa.md" >}})
 
 ---
 

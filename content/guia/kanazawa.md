@@ -16,7 +16,7 @@ Si ya conoces Kioto, o simplemente quieres descubrir un lado más tranquilo y au
 
 ### Dónde alojarse
 
-A diferencia de Kioto, Kanazawa es una ciudad más pequeña y muy fácil de recorrer. La mayoría de sus principales atractivos se concentran en una misma zona, por lo que es perfectamente posible disfrutarla caminando y sin pasar demasiado tiempo en transporte.
+A diferencia de Kioto, Kanazawa es una ciudad más pequeña y muy fácil de recorrer. La mayoría de sus principales atractivos se concentran en una misma zona, por lo que es perfectamente posible disfrutarla caminando.
 
 Como la ciudad no tiene metro, lo más práctico es moverse a pie, utilizar el autobús turístico Kanazawa Loop Bus o, si te gusta pedalear, recorrerla en bicicleta.
 
@@ -58,7 +58,7 @@ La opción más cómoda suele ser el bus directo hasta Kanazawa, pasando por Shi
 
 > Muchos viajeros aprovechan de combinar Kanazawa con Shirakawa-go y Takayama en una misma ruta por los Alpes Japoneses, ya que las distancias entre estos destinos son relativamente cortas y se complementan muy bien.
 
-**Reserva Shinkansen (tren bala) y buses**
+**Reserva de Shinkansen (tren bala) y buses**
 
 Puedes comprar tus tickets de Shinkansen con antelación (o consultar precios) en la página de <a href="https://klook.tpo.li/NSJAB0Cx" target="_blank">Klook</a>.
 
@@ -85,8 +85,8 @@ Si prefieres recorrer la ciudad sobre dos ruedas, Machi-nori es una excelente al
 
 Tarifas aproximadas:
 
-- Pase diario: ¥1.650 (≈ US$10).
-- Pago por uso: ¥165 (≈ US$1) por los primeros 30 minutos
+- Pase diario: ¥1.650 (US$10).
+- Pago por uso: ¥165 (US$1) por los primeros 30 minutos
 
 Si utilizas la tarifa por tiempo, devuelve la bicicleta antes de que se cumplan los 30 minutos y toma otra en una estación cercana para evitar cargos adicionales.
 

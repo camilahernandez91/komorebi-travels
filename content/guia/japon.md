@@ -226,6 +226,7 @@ Estas cadenas forman parte de la vida cotidiana japonesa. Son prácticas y permi
 </div>
 
 - [Tokio]({{< relref "tokio.md" >}})
+- [Kanazawa]({{< relref "kanazawa.md" >}})
 
 ---
 
