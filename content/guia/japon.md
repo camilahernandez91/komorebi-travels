@@ -53,7 +53,7 @@ Puedes revisar precios en la página de <a href="https://klook.tpo.li/NSJAB0Cx" 
 
 </div>
 
-> Si quieres entender en detalle cómo funciona el transporte en Japón, para llegar con una idea más clara y no sentirte tan perdido, puedes revisar mi guía <a href="https://komorebitravels.gumroad.com/l/vehkw" target="_blank" rel="noopener noreferrer">Cómo moverte por Japón</a>, que incluye explicaciones simples y visuales, mapas interactivos de Tokio, Kioto y Osaka, recomendaciones y enlaces de utilidad.
+> Si quieres entender en detalle cómo funciona el transporte en Japón, para llegar con una idea más clara y no sentirte tan perdido, puedes revisar mi guía <a href="https://kit-japon.netlify.app/" target="_blank" rel="noopener noreferrer">Cómo moverte por Japón</a>, que incluye explicaciones simples y visuales, mapas interactivos de Tokio, Kioto y Osaka, checklists, recomendaciones y enlaces de utilidad.
 
 ### Cuándo viajar
 

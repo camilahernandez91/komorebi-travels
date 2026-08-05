@@ -67,7 +67,7 @@ Puedes organizar tus días por barrios y recorrer hasta dos por día para disfru
   <span>Para orientarte mejor, puedes consultar este <a href="https://www.google.com/maps/d/u/0/edit?mid=11KVeBrqcZLtzK6jSfAfyDNdq7PkVVeg&usp=sharing" target="_blank">mapa</a> con todos los barrios mencionados.</span>
 </div>
 
-> En mi guía, <a href="https://komorebitravels.gumroad.com/l/vehkw" target="_blank" rel="noopener noreferrer">Cómo moverte por Japón</a>, también encuentras mapas (que voy actualizando) de Tokio, Kioto y Osaka, con los puntos más emblemáticos de cada ciudad, así como secciones otaku y enlaces de utilidad. Está pensada para que puedas llegar con una idea más clara de cómo funciona el transporte y así moverte con tranquilidad. Ideal si viajas por primera vez :)
+> En mi guía, <a href="https://kit-japon.netlify.app/" target="_blank" rel="noopener noreferrer">Cómo moverte por Japón</a>, también encuentras mapas (que voy actualizando) de Tokio, Kioto y Osaka, con los puntos más emblemáticos de cada ciudad, así como secciones otaku y enlaces de utilidad. Está pensada para que puedas llegar con una idea más clara de cómo funciona el transporte y así moverte con tranquilidad. Ideal si viajas por primera vez :)
 
 ---
 
