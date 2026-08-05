@@ -214,7 +214,6 @@ Estas cadenas forman parte de la vida cotidiana japonesa. Son prácticas y permi
 ## DATOS ÚTILES
 
 - **Idioma:** El inglés no siempre es fluido, pero hay mucha señalización clara y los japoneses suelen ser muy amables y dispuestos a ayudar. De todos modos, no te compliques: puedes apoyarte en aplicaciones como Google Translate para comunicarte cuando lo necesites. En Tokio y zonas turísticas se habla más inglés.
-- **Seguridad:** Muy alta; Japón es un destino muy seguro, incluso para viajar solo o pasear de noche.
 - **Enchufe:** Tipo A. Voltaje 100V.
 - **Agua:** Potable y generalmente gratuita en restaurantes.
 

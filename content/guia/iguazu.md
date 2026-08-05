@@ -159,7 +159,6 @@ Y por supuesto, también puedes aprovechar de pasar el día en Argentina o Parag
 ### Datos útiles
 
 - **Idioma:** Al ser una ciudad turística y fronteriza con Paraguay y Argentina, es bastante común encontrar personas que hablan o entienden español.
-- **Seguridad:** Bastante buena en las zonas turísticas; en general es un destino tranquilo para recorrer, aunque siempre es recomendable tomar las precauciones habituales, especialmente en terminales y zonas muy concurridas.
 - **Enchufe:** Tipo C y N. Voltaje 110V/220V.
 - **Agua:** Se recomienda el agua embotellada o hervida.
 - **Repelente de insectos**: Especialmente en verano o días húmedos, ya que hay bastantes mosquitos por el clima subtropical. Cómpralo en cualquier farmacia de la ciudad.

@@ -12,6 +12,6 @@ description: "Guías de viaje prácticas y organizadas por destino: Japón, Bras
 
 - [Foz de Iguazú y cataratas]({{< relref "iguazu.md" >}})
 
-### Chile
+### [Chile]({{< relref "chile.md" >}})
 
 - Santiago <span class="proximamente">próximamente</span>

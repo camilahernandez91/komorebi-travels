@@ -12,7 +12,7 @@ Conocida como la "pequeña Kioto", conserva el encanto de la época Edo en sus b
 
 Además, Kanazawa guarda un tesoro que la hace única: el barrio samurái de Nagamachi, donde antiguamente vivían los guerreros del poderoso clan Maeda. Como la ciudad no fue bombardeada durante la Segunda Guerra Mundial, gran parte de ese patrimonio histórico se conserva en muy buen estado, incluyendo muchas de sus casas originales.
 
-Si ya conoces Kioto, o simplemente quieres descubrir un lado más tranquilo y auténtico de Japón sin alejarte de su esencia tradicional, Kanazawa es una parada que vale mucho la pena considerar.
+Si ya conoces Kioto, o simplemente quieres descubrir un lado más tranquilo de Japón sin alejarte de su esencia tradicional, Kanazawa es una parada que vale mucho la pena considerar.
 
 ### Dónde alojarse
 
@@ -46,7 +46,7 @@ Kanazawa está muy bien conectada con otras ciudades de Japón, por lo que es f�
 
 #### Desde Tokio
 
-La opción más rápida y cómoda es el Hokuriku Shinkansen, que conecta Tokio y Kanazawa mediante los servicios Kagayaki (más rápido) y Hakutaka, con un tiempo de viaje de aproximadamente 2 h 30 min (aprox. ¥14.000–15.000 / US$87–93). Si viajas con presupuesto ajustado, los buses de larga distancia son una alternativa mucho más económica. El trayecto dura unas 7–8 horas (puedes tomar un bus nocturno) y los precios suelen partir desde ¥4.500–8.000 (US$28–50), dependiendo de la empresa y la fecha.
+La opción más rápida y cómoda es el Hokuriku Shinkansen, que conecta Tokio y Kanazawa mediante los servicios Kagayaki (más rápido) y Hakutaka, con un tiempo de viaje de aproximadamente 2 h 30 min (aprox. ¥14.000–15.000 / US$87–93). Si viajas con presupuesto ajustado, los buses de larga distancia son una alternativa mucho más económica. El trayecto dura unas 7–8 horas (puedes tomar el bus nocturno) y los precios suelen partir desde ¥4.500–8.000 (US$28–50), dependiendo de la empresa y la fecha.
 
 #### Desde Kioto
 
@@ -88,10 +88,6 @@ Tarifas aproximadas:
 - Pase diario: ¥1.650 (US$10).
 - Pago por uso: ¥165 (US$1) por los primeros 30 minutos
 
-Si utilizas la tarifa por tiempo, devuelve la bicicleta antes de que se cumplan los 30 minutos y toma otra en una estación cercana para evitar cargos adicionales.
-
-Antes de salir, revisa el nivel de batería de la bicicleta, especialmente si planeas visitar zonas con algunas pendientes, como los alrededores de Kenroku-en.
-
 > Puedes revisar la información oficial del <a href="https://www.hokutetsu.co.jp/en/round/" target="_blank">Kanazawa Loop Bus</a> y de <a href="https://www.machi-nori.jp/en/" target="_blank">Machi-nori</a> en sus respectivas páginas web.
 
 ### Qué ver
@@ -125,7 +121,7 @@ Antes de salir, revisa el nivel de batería de la bicicleta, especialmente si pl
   El santuario más antiguo de Kanazawa, con más de 1.500 años de historia. En los últimos años se ha hecho especialmente popular por el 101 Torii, un pasillo formado por 101 puertas torii de color bermellón.
 
 - **Santuario Oyama (Oyama Jinja)**  
-  Dedicado a Maeda Toshiie, fundador del clan Maeda, es uno de los santuarios más importantes de la ciudad. Su puerta principal destaca por combinar elementos japoneses, chinos y occidentales, incluyendo vitrales que antiguamente servían como faro para los barcos. En el interior también encontrarás un agradable jardín con estanque.
+  Dedicado a Maeda Toshiie, fundador del clan Maeda, es uno de los santuarios más importantes de la ciudad. Su puerta principal destaca por combinar elementos japoneses, chinos y occidentales, incluyendo vitrales que antiguamente servían como faro para los barcos.
 
 - **Paseo por el río Asano**  
   Si te apetece caminar sin prisas, este es uno de los rincones más agradables de Kanazawa. El tramo entre el puente Ume-no Hashi y el puente Asanogawa Ohashi, pasando por el barrio de Kazuemachi, ofrece un ambiente especialmente tranquilo y resulta muy bonito tanto de día como al anochecer, cuando varios de sus puentes se iluminan.
@@ -156,12 +152,6 @@ Si visitas Kanazawa, aprovecha de probar sus productos del mar, considerados ent
 - **Zuwaigani (cangrejo de las nieves):** La gran especialidad de la región, disponible entre noviembre y marzo.
 
 - **Nodoguro:** Un pescado de carne blanca y muy grasa, considerado una auténtica delicia en la gastronomía japonesa.
-
-#### Platos tradicionales
-
-- **Jibuni:** Un estofado típico de Kanazawa preparado con pato o pollo, verduras y un caldo espeso con un toque de wasabi. Es el plato más representativo de la cocina local.
-
-- **Kabura-zushi:** Una especialidad de invierno elaborada con pez amarillo fermentado entre láminas de nabo encurtido.
 
 #### Comida local
 

@@ -110,3 +110,9 @@ Además, visitar supermercados y mercados es una forma entretenida de conocer la
 **Aprovecha lo que el destino ofrece gratis**
 
 Muchos lugares tienen experiencias que no cuestan nada o muy poco: caminar por barrios, visitar parques, hacer “free” tours, ir a mercados locales o aprovechar días gratuitos en museos. Muchas veces los mejores recuerdos vienen de las cosas más simples.
+
+---
+
+No hace falta un presupuesto enorme para vivir un viaje inolvidable. A veces basta con bajar el ritmo, viajar con menos y estar dispuesto a probar formas distintas de conocer un lugar.
+
+Espero que este artículo te inspire a planificar tu próxima aventura. ✨

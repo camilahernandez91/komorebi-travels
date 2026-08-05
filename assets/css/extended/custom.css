@@ -284,6 +284,13 @@ h4:hover .anchor {
     display: block;
 }
 
+.responsive-img2 {
+    height: 100%;
+    max-height: 600px;
+    height: auto;
+    display: block;
+}
+
 @media (max-width: 768px) {
 
     .hero-section h1 {
